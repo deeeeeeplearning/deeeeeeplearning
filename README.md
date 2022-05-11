@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m a kaggle competition expert(3 silver medals). Kaggle competition master go go go!
 - 📫 How to reach me: liangshuang@shanghaitech.edu.cn
 -->
-- 🔭 I’m currently a master student at ShanghaiTech university.
+- 🔭 I’m currently a master student at ShanghaiTech University.
 - 🌱 I’m currently working on machine learning.
-- 🤔 I’m a kaggle competition expert(3 silver medals). Kaggle competition master go go go!
+- 🤔 I’m a kaggle competition expert(3 silver medals). Kaggle competition master, go go go!
 - 📫 How to reach me: liangshuang @@ shanghaitech.edu.cn
