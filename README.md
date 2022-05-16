@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liangshuang@shanghaitech.edu.cn
 -->
 - 🔭 I’m currently a master student at ShanghaiTech University.
-- 🌱 I’m currently working on machine learning.
+- 🌱 I’m currently working on machine learning. [Google Scholar Homepage](https://scholar.google.com.hk/citations?hl=zh-CN&user=diXwZpsAAAAJ) 
 - 🤔 I’m a kaggle competition expert(3 silver medals). Kaggle competition master, go go go! [Kaggle Homepage](https://www.kaggle.com/deeeeeeeplearning)
 - 📫 How to reach me: liangshuang @@ shanghaitech.edu.cn
