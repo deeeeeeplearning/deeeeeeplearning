@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a master student at ShanghaiTech University.
 - 🌱 I’m currently working on machine learning. [Google Scholar Homepage](https://scholar.google.com.hk/citations?hl=zh-CN&user=diXwZpsAAAAJ) 
-- 🤔 I’m a kaggle competition expert(4 silver medals). Kaggle competition master, go go go! [Kaggle Homepage](https://www.kaggle.com/deeeeeeeplearning)
+- 🤔 I’m a kaggle competition expert(5 silver medals, rank top 1000). Kaggle competition master, go go go! [Kaggle Homepage](https://www.kaggle.com/deeeeeeeplearning)
 - 📫 How to reach me: liangshuang @@ shanghaitech.edu.cn
