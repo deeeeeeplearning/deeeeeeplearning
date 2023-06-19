@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liangshuang@shanghaitech.edu.cn
 -->
 - 🔭 I graduated from ShanghaiTech University with a master's degree.
-- 🤔 I am passionate about participating in data science competitions. I’m a kaggle competition expert(5 silver medals, rank top 1000). [Kaggle Homepage](https://www.kaggle.com/deeeeeeeplearning) First price in MCM/ICM.
+- 🤔 I am passionate about participating in data science competitions. I’m a kaggle competition expert(5 silver medals, rank top 1000). [Kaggle Homepage](https://www.kaggle.com/deeeeeeeplearning).  First price in MCM/ICM.
 - 🌱 I focus on the application of machine learning. [Google Scholar Homepage](https://scholar.google.com.hk/citations?hl=zh-CN&user=diXwZpsAAAAJ) 
 - 📫 How to reach me: liangshuang @@ shanghaitech.edu.cn
